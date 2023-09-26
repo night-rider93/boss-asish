@@ -18,7 +18,7 @@
 
 <body background="bgg.jpg">
 
-<h1> <font size=5 color=green> <center>wellcome to my website </center><front face="4"RIDER
+<h1> <font size=5 color=green> <center>wellcome to my website </center>
 </font>
 </h1>
 <body>
@@ -86,24 +86,17 @@ f)	G2B :- {Government to business}
 g)	G2C:- {Government to citizen}<h2>
 a) B2B :- it stands for  (business to business)
 	In this model of business sells it product to an intermediate byer who sells the product to the final customer  
- <P>
-     <center><img src="C:\Users\USER\Pictures\Saved Pictures\b2b.jpg"</center>
-	 </p>
+
 b) B2C :- It stands for Business To Customer 
 	In this model , sells its product directly to a customer 
 	The customer can chose a product and orders same it also occur via email & organization will dispatch the product to the customer
 
 c) C2C :- It stands for Customer To Customer  
 	In this model a customer sells their assets like residential property car motor cycle 
-<p>
-   <center><img src="C:\Users\USER\Pictures\Saved Pictures\c2c.jpg"</center>
-	</p>
+
 d) C2B :-It stands for Customer To Business
 	It this model a consumer approach website to view multiple business organization for a particular service 
 	For exp :- a customer compare the rate of interest of personal one provide by various bank
- <p>
-    <center><img src="C:\Users\USER\Pictures\Saved Pictures\c2b.jpg"</center>
-	</p>
 
 e) B2G :- It stands for Business To Government 
 	In this model such  organization used website by government to trade and exchange information with varus business organization 
@@ -119,9 +112,7 @@ g) G2C :- In this model government use as website  to approach citizen in genera
 •	Such website also provides service like registration of  birth , marriage and death certificates 
 •	The main aim of G2C relation to reduce the average time
  
-<p>
-     <center><img src="C:\Users\USER\Pictures\Saved Pictures\g2c.jpg"</center>
-   
+
  <center> <font color=green> Data Exchange Model
 
 <h2>This model is divided into 2 part <h2>
