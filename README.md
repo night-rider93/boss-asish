@@ -100,9 +100,8 @@ d) C2B :-It stands for Customer To Business
 
 e) B2G :- It stands for Business To Government 
 	In this model such  organization used website by government to trade and exchange information with varus business organization 
- <p>
-    <center><img src="C:\Users\USER\Pictures\Saved Pictures\b2g.jpg"</center>
-     </p>
+ 
+
 f) G2B :-In this model government provides website to approach business organization 
 •	It stands for Government to Business 
 •	Such website support auctions tenders etc.
