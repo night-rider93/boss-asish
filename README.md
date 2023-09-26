@@ -1,6 +1,5 @@
 # boss-asish.github.io
 
-<!DOCTIVE html>
 <html>
 
 
@@ -114,7 +113,7 @@ g) G2C :- In this model government use as website  to approach citizen in genera
 
  <center> <font color=green> Data Exchange Model
 
-<h2>This model is divided into 2 part <h2>
+<br>This model is divided into 2 part 
 <center-right>
 <h3>1.	Integrated E-Commerce
 2.	Interface E-Commerce
@@ -123,7 +122,7 @@ g) G2C :- In this model government use as website  to approach citizen in genera
 	
 	This software is used in B2B and B2C 
 (2)  Interface E-Commerce:- 
-	In the model the software solution is installed on top of the back-end system in this software the product have there on database and business logically 
+|<br>In the model the software solution is installed on top of the back-end system in this software the product have there on database and business logically 
 
 <font color=red>
 
