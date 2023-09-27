@@ -1,6 +1,6 @@
 
 <html>
-<head>
+
       <CENTER><U><B>BOSS ASISH </B></U></CENTER>
 <body>
 <hr width="95%" color="blue" size="7"/>
@@ -8,8 +8,7 @@
 </body>
 
 <body>
-  <center><font face="Algerian" size=7 color=red><p><b><u><i>I AM NIGHT RIDER</i></u></b></p></font></center>
-</head>
+  <center><font face="Algerian" size=7 color=red><p><b><u>I AM NIGHT RIDER</u></b></p></font></center>
 
 <body>
 
@@ -19,9 +18,9 @@
  <h1>I.T. APPLICATION</h1>
 
 <br>E . Governance :- Electronic Governance .
-<br>Electronic governance means using information and communication technology (ICT) to transform functioning of the government 
-<br>It refers to governance of country ,an institution or household by housewife 
-<br>E- Governance therefore act the application of ICT to transform efficiency , effectiveness between government between government to agencies , between to citizen , between government to business 
+<br>Electronic governance means using information and communication technology (ICT) to transform functioning of the government.
+<br>It refers to governance of country ,an institution or household by housewife. 
+<br>E- Governance therefore act the application of ICT to transform efficiency , effectiveness between government between government to agencies , between to citizen , between government to business. 
 
 <h2>Long Question Imp – For 23-24</h2>
 
