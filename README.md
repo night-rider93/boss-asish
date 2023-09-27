@@ -105,19 +105,21 @@ g) G2C :- In this model government use as website  to approach citizen in genera
 •	The main aim of G2C relation to reduce the average time
  
 
- <center> <font color=green> Data Exchange Model
+<font color=green> Data Exchange Model
 
 <br>This model is divided into 2 part 
-<center-right>
-<h3>1.	Integrated E-Commerce
+
+1.	Integrated E-Commerce
 2.	Interface E-Commerce
 (1) Integrated E-Commerce:- 
 	An inter grated E-Commerce doesn’t requires any investment for a database or business it re-user for back-end system in stated  
 	
 	This software is used in B2B and B2C 
 (2)  Interface E-Commerce:- 
-|<br>In the model the software solution is installed on top of the back-end system in this software the product have there on database and business logically 
+<br>In the model the software solution is installed on top of the back-end system in this software the product have there on database and business logically 
 </font>
+
+
 </body>
 </html>
 
