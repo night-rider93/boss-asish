@@ -117,6 +117,7 @@ g) G2C :- In this model government use as website  to approach citizen in genera
 	This software is used in B2B and B2C 
 (2)  Interface E-Commerce:- 
 |<br>In the model the software solution is installed on top of the back-end system in this software the product have there on database and business logically 
+</font>
 </body>
 </html>
 
