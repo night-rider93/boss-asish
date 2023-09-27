@@ -1,14 +1,14 @@
 
 <html>
-
-      <CENTER><U><B>BOSS ASISH </B></U></CENTER>
 <body>
+     <font face="Algerian" size=7 color=red><CENTER><U><B>BOSS ASISH </B></U></CENTER></font>
+
 <hr width="95%" color="blue" size="7"/>
 
 </body>
 
 <body>
-  <center><font face="Algerian" size=7 color=red><p><b><u>I AM NIGHT RIDER</u></b></p></font></center>
+  <center><font face="Algerian" size=5 color=red><p><b><u>I AM NIGHT RIDER</u></b></p></font></center>
 
 <body>
 
@@ -105,7 +105,7 @@ g) G2C :- In this model government use as website  to approach citizen in genera
 •	The main aim of G2C relation to reduce the average time
  
 
-<font color=green> Data Exchange Model
+<p> Data Exchange Model
 
 <br>This model is divided into 2 part 
 
@@ -117,9 +117,4 @@ g) G2C :- In this model government use as website  to approach citizen in genera
 	This software is used in B2B and B2C 
 (2)  Interface E-Commerce:- 
 <br>In the model the software solution is installed on top of the back-end system in this software the product have there on database and business logically 
-</font>
-
-
-</body>
-</html>
 
