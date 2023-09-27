@@ -3,22 +3,16 @@
 <html>
 
 
-
 <head>
 
       <title> welcome
 	  </title>
 
-
-
-
-
 </head>
 
 <body>
 
-<h1> <font size=5 color=green> <center>wellcome to my website </center>
-</font>
+<h1> <center>wellcome to my website </center>
 </h1>
 <body>
  <h1>I.T. APPLICATION</h1>
