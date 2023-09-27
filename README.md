@@ -1,14 +1,14 @@
 
 <html>
 <body>
-     <font face="Algerian" size=7 color=#C41A8A><CENTER><U><B>BOSS ASISH </B></U></CENTER></font>
+     <font face="Algerian" size=7 color=blue><CENTER><U><B>BOSS ASISH </B></U></CENTER></font>
 
 <hr width="95%" color="blue" size="7"/>
 
 </body>
 
 <body>
-  <center><font face="Algerian" size=5 color=#0be3f4><p><b><u>I AM NIGHT RIDER</u></b></p></font></center>
+  <center><font face="Algerian" size=5 color=green><p><b><u>I AM NIGHT RIDER</u></b></p></font></center>
 
 <body>
 
