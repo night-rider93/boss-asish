@@ -15,13 +15,13 @@
 
 </head>
 
-<body background="bgg.jpg">
+<body>
 
 <h1> <font size=5 color=green> <center>wellcome to my website </center>
 </font>
 </h1>
 <body>
-<p> <font color=blue> <h1>I.T. APPLICATION</h1>
+ <h1>I.T. APPLICATION</h1>
 
 <br>E . Governance :- Electronic Governance .
 <br>Electronic governance means using information and communication technology (ICT) to transform functioning of the government 
@@ -123,13 +123,6 @@ g) G2C :- In this model government use as website  to approach citizen in genera
 	This software is used in B2B and B2C 
 (2)  Interface E-Commerce:- 
 |<br>In the model the software solution is installed on top of the back-end system in this software the product have there on database and business logically 
-
-<font color=red>
-
-
 </body>
-
-
-
 </html>
 
