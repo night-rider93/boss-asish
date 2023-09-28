@@ -15,6 +15,8 @@
 <h1> <center>wellcome to my website </center>
 <dev>
     <ul>
-       <li><a href="index,html">CLIK ME </a></li>
+       <li><a href="index.html">CLIK ME </a></li>
     </ul>
 </dev>
+</body>
+</html>
