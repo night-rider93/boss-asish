@@ -6,8 +6,8 @@
       <link rel="stylesheet" href="style.css">
       <link rel="stylesheet" href="contact.css">
 </head>
-<body onlode="mywebsite">
-<div class="loader">
+<body>
+<div id="loader">
 		<span></span>
 		<span></span>
 		<span></span>
@@ -37,12 +37,11 @@
       <a href=""><img src="images/telegram.png"></a>
      </div>
    </div>
-	<script>
+<script>
 		var preloader = document.getElementById("loader");
-		function mywebsite(){
-			preloader.style.display = 'none';
-		}
-
+	      window.addEventListener("load",function(){
+			loader.style.display = 'none';
+		  })
 	  </script>
 </body>
 </html>
